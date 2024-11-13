@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1713a70882ed463429ec9d81732f34c7
+  m_SerializeEntries:
+  - m_GUID: bde9c7f71f858684ca7b9ceaa1f10a3d
+    m_Address: Assets/Prefabs/BarrelSet0.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6dcd4781ba08c744a17a03c887e46fb
+    m_Address: Assets/Prefabs/BarrelSet1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 521c79bf8c3126643b33901a8b2212ae
+    m_Address: Assets/Prefabs/BarrelSet2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e83d872ecd3d1d489a614b7040b5934
+    m_Address: Assets/Prefabs/Containters.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c25ea79a848351448ba6a61f688b7ed
+    m_Address: Assets/Prefabs/MetalBoxes.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c998ad3487f0384f95fcda776a78710
+    m_Address: Assets/Prefabs/WoodenBoxes.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ea6769c115c9f841a7df2e330403985
+    m_Address: Assets/AssetStoreAssets/Dry_Trees/Prefab/Dry5818.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6905bfb07dfcac5489e6daf8e7babe92
+    m_Address: Assets/AssetStoreAssets/Dry_Trees/Prefab/Dry6524.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10d8dedacc7c7804ea3893a4d74faea1
+    m_Address: Assets/AssetStoreAssets/Dry_Trees/Prefab/Dry8872.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9046dd8040214c0458728201d824c41f
+    m_Address: Assets/AssetStoreAssets/Dry_Trees/Prefab/Dry3333.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2e54234007ec4543b62fd7788bcd725
+    m_Address: Assets/AssetStoreAssets/Dry_Trees/Prefab/Dry4195.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fbfb820b09a96f47a16dc79c8539ec7
+    m_Address: Assets/AssetStoreAssets/Dry_Trees/Prefab/Dry4910.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0603828da9221ca4a9a54954ff8842ff
+    m_Address: Assets/AssetStoreAssets/Dry_Trees/Prefab/Dry7509.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b75e0d0eaefba1a459c8b021ebb6ea31, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c382d46fb43b88c47a943f9c87442c1f, type: 2}
+    - {fileID: 11400000, guid: 3ce86fc3ec63e9345950ebad2b5fb642, type: 2}
