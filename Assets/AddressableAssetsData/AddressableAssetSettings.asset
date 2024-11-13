@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 1713a70882ed463429ec9d81732f34c7
   m_currentHash:
     serializedVersion: 2
-    Hash: 00000000000000000000000000000000
+    Hash: 645509f08c10888b5197890aa261ec85
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_BundleLocalCatalog: 0
@@ -46,6 +46,7 @@ MonoBehaviour:
   m_GroupAssets:
   - {fileID: 11400000, guid: 36e01fca5943f3d4791aaf09ce712cab, type: 2}
   - {fileID: 11400000, guid: 87907ddde7a01064db4986a2bdbadbe9, type: 2}
+  - {fileID: 11400000, guid: dd1163ad7fcdc7e468894807b7144c9b, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -80,7 +81,7 @@ MonoBehaviour:
       - m_Id: b9a1df9f873dd4949ba0a5f93e33deb1
         m_Value: ServerData/[BuildTarget]
       - m_Id: 594a19f188795cd4a9d55e7c98f10e3a
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: https://raw.githubusercontent.com/RVdantass/AddressableCloud-2024-main/refs/heads/main/
     m_ProfileEntryNames:
     - m_Id: 68a58f57008712049bf928f570ae052a
       m_Name: BuildTarget
